@@ -20,10 +20,10 @@ O objetivo do app é mostrar o uso dos hooks useState, useEffect e componentiza�
 ## Como rodar o backend
 * Entrar na pasta backend
 * Baixar as dependências - rodar o comando ``` yarn ```
-* Inicializar o app - rodar o comando ``` yarn start ```
+* Inicializar o app - rodar o comando ``` yarn server ```
 
 ## Como rodar o frontend
-* Entrar na pasta backend
+* Entrar na pasta frontend
 * Baixar as dependências - rodar o comando ``` yarn ```
 * Inicializar o app - rodar o comando ``` yarn dev ```
 
