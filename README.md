@@ -29,7 +29,13 @@ O objetivo do app √© mostrar o uso dos hooks useState, useEffect e componentiza√
 
 ## Imagem do App
 <p align="center">
-  <img src="/print-sistema.png">
+  <img src="/print-sistema-cadastro.PNG">
 </p>
 
+<p align="center">
+  <img src="/print-sistema-estudo.PNG">
+</p>
 
+<p align="center">
+  <img src="/print-sistema-listagem.PNG">
+</p>
