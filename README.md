@@ -30,16 +30,16 @@ O objetivo do app é mostrar o uso dos hooks useState, useEffect e componentiza�
 ## Imagens do App
 
 <p align="center">
-  1 - Listagem dos cards para edição/exclusão
+  <div>1 - Listagem dos cards para edição/exclusão</div>
   <img src="/print-sistema-listagem.PNG">
 </p>
 
 <p align="center">
-  2 - Cadastro/Edição dos cards
+  <div>2 - Cadastro/Edição dos cards</div>
   <img src="/print-sistema-cadastro.PNG">
 </p>
 
 <p align="center">
-  3 - Tela para estudos utilizando os cards
+  <div>3 - Tela para estudos utilizando os cards</div>
   <img src="/print-sistema-estudo.PNG">
 </p>
