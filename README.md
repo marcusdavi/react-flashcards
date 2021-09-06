@@ -28,14 +28,20 @@ O objetivo do app é mostrar o uso dos hooks useState, useEffect e componentiza�
 * Inicializar o app - rodar o comando ``` yarn dev ```
 
 ## Imagem do App
+
+#### Listagem dos cards para edição/exclusão
+<p align="center">
+  <img src="/print-sistema-listagem.PNG">
+</p>
+
+#### Cadastro/Edição dos cards
 <p align="center">
   <img src="/print-sistema-cadastro.PNG">
 </p>
 
+#### Tela para estudos utilizando os cards
 <p align="center">
   <img src="/print-sistema-estudo.PNG">
 </p>
 
-<p align="center">
-  <img src="/print-sistema-listagem.PNG">
-</p>
+
